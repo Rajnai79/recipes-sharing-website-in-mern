@@ -37,3 +37,4 @@ The frontend will run on:
 🔐 User authentication (if enabled)
 📱 Responsive design
 
+**Note** :The YouTube video link used in this project is for educational purposes only. All rights to the content, including the video and recipe, belong to the original creator
